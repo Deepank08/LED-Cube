@@ -14,3 +14,26 @@ We will be using a Arduino Uno board(microcontroller board based on the ATmega32
 7. Define each of those functions using custom logic and timing.
 
 Then comes the job to setup the Arduino with the cube and run the code.
+
+## References
+
+* Web Concepts ..*[https://developer.mozilla.org/en-US/docs/Web/Tutorials]
+
+* AngularJS 
+          ..*[https://docs.angularjs.org/tutorial]
+			    ..*[https://www.journaldev.com/angularjs]
+			    ..*[https://coderwall.com/t/angularjs/popular]
+			    ..*[www.codeschool.com]
+
+* Gulp - [https://github.com/gulpjs/gulp/blob/master/docs/API.md]
+	   - [https://semaphoreci.com/community/tutorials/getting-started-with-gulp-js]
+	   - [https://markgoodyear.com/2014/01/getting-started-with-gulp/]
+
+* Unit testing(Karma & Jasmine) - [https://codef0rmer.gitbooks.io/angularjs-directives-in-traction-the-book/chapter3.html]
+								- [http://mherman.org/blog/2015/04/09/testing-angularjs-with-protractor-and-karma-part-1/#.WieGsHVL_DH] 
+
+* End-To-End Testing(Protractor) - [https://www.thoughtworks.com/insights/blog/testing-angularjs-apps-protractor]
+								 - [https://github.com/mllrsohn/gulp-protractor]
+								 - [http://www.protractortest.org/#/server-setup]
+
+
